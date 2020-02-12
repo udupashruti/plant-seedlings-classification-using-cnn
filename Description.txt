@@ -1,0 +1,5 @@
+The case study is from a dataset from Kaggle. 
+
+Link to the Kaggle project site:
+
+https://www.kaggle.com/c/plant-seedlings-classification 
